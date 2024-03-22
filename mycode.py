@@ -17,3 +17,7 @@ starships=(["millenium falcon", "star destroyer", "x-wing"])
 starships.append("TIE Fighter")
 print(starships)
 print(starships[1])
+
+def great(name): 
+    print(f"Helllo, {name}!")
+    
